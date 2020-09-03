@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(https://searchengineland.com/figz/wp-content/seloads/2018/09/writer-writing-ss-1920.jpg) no-repeat;
+    background-size: cover;
+    z-index: -1;
+}
+
+label{
+    color: rgba(255, 255, 255, 1);
+}
+
+button{
+    opacity: 0.8;
+}
+
+.demo{
+    margin-bottom: 1%;
+    border-bottom: 3px solid green;
+    padding: 3px 0;
+    text-align: center;
+}
